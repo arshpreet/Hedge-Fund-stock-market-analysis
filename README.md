@@ -1,1 +1,1 @@
-# Multilayer-perceptron-stock-analysis
+# Hedge Fund Stock Market analysis
