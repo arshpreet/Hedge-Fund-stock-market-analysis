@@ -1,6 +1,8 @@
 import tensorflow as tf
 import numpy as np
 
+# This is just a practice test
+
 # Split dataset into training (66%) and test (33%) set
 filename = 'training_set.csv'
 raw_data = open(filename, 'rt')
